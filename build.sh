@@ -9,5 +9,3 @@ cmake -B build -S . \
 -DANDROID_PLATFORM=android-24
 
 cmake --build build
-
-chmod +x build.sh
