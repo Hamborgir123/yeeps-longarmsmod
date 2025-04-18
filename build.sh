@@ -10,3 +10,4 @@ cmake -B build -S . \
 
 cmake --build build
 
+chmod +x build.sh
